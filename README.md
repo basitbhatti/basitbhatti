@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
 <h3 align="center">A passionate mobile developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **API Based Projects**
+- 🔭 I’m currently working on **Portfolio Projects**
 
 - 🌱 I’m currently learning **Kotlin Multiplatform (KMP)**
 
-- 💬 Ask me about **Java, Kotlin, Android Studio, Firebase**
+- 💬 Ask me about **Java, Kotlin, Android Studio, Coroutines, MVVM, Room Database, Firebase**
 
 - 📫 How to reach me **basitbhattee@gmail.com**
 
